@@ -1,7 +1,7 @@
-tests/calculator.test.js
+// tests/calculator.test.js
 
 // Jika script.js diekspor sebagai modul, Anda bisa mengimpornya:
-const { performCalculation } = require('../script.js');
+// const { performCalculation } = require('../script.js');
 // Untuk kesederhanaan, kita akan mendefinisikan ulang atau menguji logika inti di sini.
 // Fungsi performCalculation dari script.js (atau mock/reimplementasi untuk tes)
 // Sebaiknya impor jika script.js diatur sebagai modul.
